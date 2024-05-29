@@ -1,0 +1,7 @@
+IF= C=1 THEN
+Error in line 17: Syntax error.
+18,10 SAY "LA RESPUESTA ES"+ TRANSFORM (R, "99999.99")
+Error in line 19: Syntax error.
+@19,10 SAY "LA RESPUESTA 
+Error in line 23: Command contains unrecognized phrase/keyword.
+Error in line 23: An IF | ELSE | ENDIF statement is missing.
